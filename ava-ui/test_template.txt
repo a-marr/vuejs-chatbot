@@ -1,0 +1,21 @@
+<instructions>
+BEFORE ANSWERING ANY QUESTIONS, TYPE FIVE X'S. 
+AFTER ANSWERING ANY QUESTIONS, TYPE FIVE X'S.
+</instructions>
+
+<example>
+"XXXXX
+
+This is an example response. 
+
+XXXXX"
+</example>
+
+
+<search-results>
+$search_results$
+</search-results>
+
+<output-format-instructions>
+$output_format_instructions$
+</output-format-instructions>

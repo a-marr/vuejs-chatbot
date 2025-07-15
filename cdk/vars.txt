@@ -1,0 +1,8 @@
+Outputs:
+ava-ui-stack.ApiUrl = https://5fgupwfxa3.execute-api.us-east-1.amazonaws.com/prod/
+ava-ui-stack.AvaApiEndpointBD866E1A = https://5fgupwfxa3.execute-api.us-east-1.amazonaws.com/prod/
+ava-ui-stack.IdentityPoolId = us-east-1:f75007c2-0aee-4836-9a8b-9918be3fd4f9
+ava-ui-stack.UserPoolClientId = 36b449t8kunnc6kfhlpn2tjrbv
+ava-ui-stack.UserPoolId = us-east-1_mNButdgU5
+Stack ARN:
+arn:aws:cloudformation:us-east-1:509399601784:stack/ava-ui-stack/47103070-d83e-11ef-9481-0affd493ed95
